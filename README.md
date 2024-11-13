@@ -1,15 +1,17 @@
-## Hi there 👋
+# Merhaba, Ben Okay! 👋
 
+**`Yazılımcı | Öğrenci | Stajyer`**
 
-**Okay1165/Okay1165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Yazılım geliştirme ve teknoloji dünyasında yenilikleri keşfetmeyi seven bir yazılımcıyım. Şu anda öğrenci olarak kariyer yolculuğuma devam ediyor, aynı zamanda staj yaparak profesyonel deneyimler kazanıyorum. Kodlama tutkusu ile hem kendimi geliştiriyor hem de projelerimle öğrendiklerimi pekiştiriyorum. 
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+- 🔭 Şu anda **yeni teknolojiler öğreniyor** ve **farklı projeler** üzerinde çalışıyorum.
+- 🌱 Özellikle **Web Geliştirme** ve **Mobil Uygulamalar** konularına ilgi duyuyorum.
+- 📫 Bana [LinkedIn](https://www.linkedin.com/in/okay-acungan-132259285/) üzerinden ulaşabilirsiniz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Kullandığım Teknolojiler
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Python, SQL
+- **Diğer:** Git, Docker, VS Code
+
+Birlikte çalışmak ve öğrenmek için sabırsızlanıyorum! 🚀
