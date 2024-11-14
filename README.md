@@ -11,7 +11,7 @@ Merhaba! Yazılım geliştirme ve teknoloji dünyasında yenilikleri keşfetmeyi
 
 ## 💻 Kullandığım Teknolojiler
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Python, SQL
+- **Backend:** Node.js, Python, SQL, PHP
 - **Diğer:** Git, Docker, VS Code
 
 Birlikte çalışmak ve öğrenmek için sabırsızlanıyorum! 🚀
